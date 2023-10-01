@@ -5,4 +5,3 @@ for frontend I used Bootstrap 5.3
 
 #In the project I'm saving anonymous user's data in serversite using The session framework
 #simple registration system using SMTP (Simple Mail Transfer Protocol).
-#simple custom login system
